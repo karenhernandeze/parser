@@ -1,0 +1,33 @@
+A void ID ( void ) H
+B A | ε
+D ID B' | void ID ( E ) H
+C' | ( E ) { I J return P ; }
+D ID C'
+; | [ INTEGER ] ;
+int | float | string
+D ID G F | void
+, D ID G F | ε
+[ ] | ε
+{ I J return ; }
+C I | ε
+K J | ε
+ID K' | { I J } | if ( P ) K M | while ( P ) K | return N | read ID O ; | write P ;
+O = L | ( X ) ;
+P ; | STRING ;
+else K | ε
+; | P ;
+[ R ] | ε
+R P'
+Q R | ε
+<= | < | > | >= | == | !=
+T R'
+S T R' | ε
++ | -
+V T'
+U V T' | ε
+* | /
+( R ) | ID V' | W
+[ R ] | ( X ) ; | ε
+INTEGER | FLOAT
+R Y | ε
+, R Y | ε

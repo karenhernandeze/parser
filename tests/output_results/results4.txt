@@ -1,0 +1,23 @@
+Entry 1: 10
+Entry 2: 1
+Entry 3: 0
+Entry 1: x
+Entry 2: s
+Entry 3: f1
+Entry 4: f2
+Entry 5: miniloc
+Entry 6: a
+Entry 7: low
+Entry 8: high
+Entry 9: i
+Entry 10: y
+Entry 11: k
+Entry 12: readarray
+Entry 13: writearray
+Entry 14: main
+Entry 15: sort
+Entry 1: "enter a float number: "
+Entry 2: "enter an integer number: "
+Entry 3: "reading information....."
+Entry 4: "sorting....."
+Entry 5: "sorted array:"
